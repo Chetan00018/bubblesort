@@ -1,6 +1,7 @@
 // Write a program to implement Parallel Merge sort using OpenMP. Use existing
 // algorithms and measure the performance of sequential and parallel algorithms
-
+//g++ filename.cpp -fopenmp
+//./a.out
 // Online C++ compiler to run C++ program online
 // 2ParallelBubbleMergeSort.cpp
 
